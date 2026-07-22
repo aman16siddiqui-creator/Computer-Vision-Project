@@ -49,28 +49,28 @@ Develop a real-time object detection system using YOLOv5, a state-of-the-art dee
 **Deliverables:**
 
 
-**1. Trained Model:** A trained YOLOv5 model for real-time object detection.
+🔹**Trained Model:** A trained YOLOv5 model for real-time object detection.
 
-**2. Real-Time Object Detection System:** A working real-time object detection system using the trained model.
+🔹**Real-Time Object Detection System:** A working real-time object detection system using the trained model.
 
-**3. Evaluation Metrics:** Evaluation metrics (mAP, AP50, AP75) for the trained model.
+🔹**Evaluation Metrics:** Evaluation metrics (mAP, AP50, AP75) for the trained model.
 
-**4. Report:** A detailed report on the project, including the model architecture, training process, and evaluation results.
+🔹**Report:** A detailed report on the project, including the model architecture, training process, and evaluation results.
 
 **Evaluation Criteria:**
 
-**1. Accuracy:** The accuracy of the object detection system, including mAP, AP50, and AP75.
+🔹**Accuracy:** The accuracy of the object detection system, including mAP, AP50, and AP75.
 
-**2. Speed:** The speed of the object detection system, including inference time and FPS.
+🔹**Speed:** The speed of the object detection system, including inference time and FPS.
 
-**3. Robustness:** The robustness of the object detection system to different lighting conditions, occlusions, and object variations.
+🔹**Robustness:** The robustness of the object detection system to different lighting conditions, occlusions, and object variations.
 
 **Tools and Libraries:**
 
-**1. PyTorch:** A deep learning framework for building and training neural networks.
+🔹**PyTorch:** A deep learning framework for building and training neural networks.
 
-**2. OpenCV:** A computer vision library for image and video processing.
+🔹**OpenCV:** A computer vision library for image and video processing.
 
-**3. YOLOv5**: A pre-trained object detection model.
+🔹**YOLOv5**: A pre-trained object detection model.
 
-**4. COCO API:** A API for working with the COCO dataset.
+🔹**COCO API:** A API for working with the COCO dataset.
